@@ -1,1 +1,5 @@
 #The dataset used in this project is the processed CoffeeSpecifiedProject dataset, sourced from the following URL:
+#https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis
+#This data records every transaction at the coffee shop, including transaction time, shop location, product type, size, and unit price.
+#This micro-level record of real consumer behavior is suitable for analyzing consumer product selection patterns in different scenarios. It can be combined with the following URL:
+#https://data.mendeley.com/datasets/5sjfp2334f/2
